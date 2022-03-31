@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerStoredProcedureSubscriber", "SqlServerStoredProcedureSubscriber.csproj", "{8A7CBBC4-F2F2-425F-B4BD-C0C7EB75B1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriberTests", "SubscriberTests\SubscriberTests.csproj", "{BE4B5900-77F7-4046-9A78-4C7DD8F98ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7CBBC4-F2F2-425F-B4BD-C0C7EB75B1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7CBBC4-F2F2-425F-B4BD-C0C7EB75B1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7CBBC4-F2F2-425F-B4BD-C0C7EB75B1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7CBBC4-F2F2-425F-B4BD-C0C7EB75B1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4B5900-77F7-4046-9A78-4C7DD8F98ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4B5900-77F7-4046-9A78-4C7DD8F98ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4B5900-77F7-4046-9A78-4C7DD8F98ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4B5900-77F7-4046-9A78-4C7DD8F98ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCF93F2-5BCA-45EE-ABFE-F1FA73EFBDEB}
+	EndGlobalSection
+EndGlobal
